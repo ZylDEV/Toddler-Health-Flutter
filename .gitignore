@@ -20,7 +20,7 @@ migrate_working_dir/
 
 # VS Code (optional)
 #.vscode/
-
+web/
 # Flutter / Dart
 .dart_tool/
 .flutter-plugins-dependencies

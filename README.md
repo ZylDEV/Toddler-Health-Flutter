@@ -26,4 +26,4 @@ A Flutter application for managing health data and monitoring toddlers (balita) 
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/ZylDEV/toddler-health-flutter.git
+   git clone https://github.com/ZylDEV/Toddler-Health-Flutter.git
