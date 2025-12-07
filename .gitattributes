@@ -1,1 +1,2 @@
 *.dart linguist-language=Dart
+web/* linguist-vendored
